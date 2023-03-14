@@ -1,0 +1,15 @@
+D:\Csharp_HW\starpattern\bin\Debug\net7.0\starpattern.exe
+D:\Csharp_HW\starpattern\bin\Debug\net7.0\starpattern.deps.json
+D:\Csharp_HW\starpattern\bin\Debug\net7.0\starpattern.runtimeconfig.json
+D:\Csharp_HW\starpattern\bin\Debug\net7.0\starpattern.dll
+D:\Csharp_HW\starpattern\bin\Debug\net7.0\starpattern.pdb
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\starpattern.csproj.AssemblyReference.cache
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\starpattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\starpattern.AssemblyInfoInputs.cache
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\starpattern.AssemblyInfo.cs
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\starpattern.csproj.CoreCompileInputs.cache
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\starpattern.dll
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\refint\starpattern.dll
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\starpattern.pdb
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\starpattern.genruntimeconfig.cache
+D:\Csharp_HW\starpattern\obj\Debug\net7.0\ref\starpattern.dll
